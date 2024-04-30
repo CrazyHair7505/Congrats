@@ -30,6 +30,13 @@ h1 {
     width: 100%;
 }
 
+h3 {
+    text-align: center;
+    top: 100px;
+    font-family: 'Sigmar One', cursive;
+    cursor: pointer;
+}
+
 .blob {
     height: 50px;
     width: 50px;
